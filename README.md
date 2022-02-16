@@ -4,29 +4,29 @@ Topics showed are:
 
 -Exploratory Data Analysis:
   
-  -EDA of features;
+    -EDA of features;
   
-  -Language detection;
+    -Language detection;
   
-  -Length analysis;
+    -Length analysis;
   
-  -Wordcloud
+    -Wordcloud
 
 -Text Analysis:
   
-  -Text preprocessing;
+    -Text preprocessing;
   
-  -Named Entity Recognition;
+    -Named Entity Recognition;
   
-  -N-grams;
+    -N-grams;
   
-  -Topic Modelling;
+    -Topic Modelling;
   
-  -Word embedding;
+    -Word embedding;
   
-  -Clustering
+    -Clustering
  
 -Text Classification:
   
-  -Classification with BERT
+    -Classification with BERT
   
