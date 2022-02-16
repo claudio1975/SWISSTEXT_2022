@@ -2,7 +2,7 @@ The goal of this project is to show the Natural Language Processing applications
 
 Topics showed are:
 
-# Exploratory Data Analysis:
+### Exploratory Data Analysis:
   
     -EDA of features;
   
@@ -12,7 +12,7 @@ Topics showed are:
   
     -Wordcloud
 
-# Text Analysis:
+### Text Analysis:
   
     -Text preprocessing;
   
@@ -26,7 +26,7 @@ Topics showed are:
   
     -Clustering
  
-# Text Classification:
+### Text Classification:
   
     -Classification with BERT
   
