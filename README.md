@@ -14,7 +14,7 @@ Topics showed are:
 
 ### Text Analysis:
   
-    -Text preprocessing;
+    -Text cleaning;
   
     -Named Entity Recognition;
   
@@ -23,8 +23,6 @@ Topics showed are:
     -Topic Modelling;
   
     -Word embedding;
-  
-    -Clustering
  
 ### Text Classification:
   
