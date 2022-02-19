@@ -8,7 +8,7 @@ Topics showed are:
   
     -Language detection;
   
-    -Length analysis;
+    -Lenght analysis;
   
     -Wordcloud
 
