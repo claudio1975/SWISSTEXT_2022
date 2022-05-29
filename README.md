@@ -4,8 +4,6 @@ Topics showed are:
 
 ### Exploratory Data Analysis:
   
-    -EDA of features;
-  
     -Language detection;
   
     -Lenght analysis;
