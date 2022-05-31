@@ -12,13 +12,13 @@ Topics showed are:
 
 ### Text Analysis:
   
+    -Named Entity Recognition (NER) and Part of Speech Tagging (POS);
+  
     -Text cleaning;
-  
-    -Named Entity Recognition;
-  
+    
     -N-grams;
   
-    -Topic Modelling;
+    -Topic Modelling with BertTopic;
   
     -Word embedding;
  
