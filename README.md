@@ -29,6 +29,6 @@ Topics showed are:
 
 ![](images/wordcloud_.png)
 
-![](images/lda.png)
+![](images/BertTopic.png)
 
 ![](images/confusion_matrix.png)
