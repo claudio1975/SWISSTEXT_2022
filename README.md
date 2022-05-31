@@ -27,7 +27,7 @@ Topics showed are:
     -Classification with BERT
   
 
-![](images/wordcloud.png)
+![](images/wordcloud_.png)
 
 ![](images/lda.png)
 
