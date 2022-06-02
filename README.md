@@ -4,9 +4,9 @@ Topics showed are:
 
 ### Exploratory Data Analysis:
   
-    -Language detection;
+    -Language Detection;
   
-    -Lenght analysis;
+    -Length analysis;
   
     -Wordcloud
 
