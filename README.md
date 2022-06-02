@@ -31,4 +31,3 @@ Topics showed are:
 
 ![](images/BertTopic.png)
 
-![](images/confusion_matrix.png)
