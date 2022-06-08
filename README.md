@@ -1,5 +1,7 @@
 # NLP AND INSURANCE
 
+![](NLP_INSURANCE)
+
 Natural Language Processing will lead in the next years the revolution of the Artificial Intelligence for the Insurance industry.
 
 There are several opportunities to employ NLP in the insurance activities, from Claims Processing to Fraud Detection and Chatbots.
