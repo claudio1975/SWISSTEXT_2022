@@ -24,7 +24,7 @@ Topics showed are:
   
     -Wordcloud
 
-### Text Analysis:
+### [Text Analysis](https://github.com/claudio1975/SWISSTEXT_2022/blob/main/NLP_text_analysis.ipynb):
   
     -Named Entity Recognition (NER) and Part of Speech Tagging (POS);
   
