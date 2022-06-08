@@ -1,6 +1,6 @@
 # NLP AND INSURANCE
 
-![](images/NLP_INSURANCE.png)
+![](images/NLP_INSURANCE_.png)
 
 Natural Language Processing will lead in the next years the revolution of the Artificial Intelligence for the Insurance industry.
 
