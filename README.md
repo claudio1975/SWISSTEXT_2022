@@ -16,7 +16,7 @@ The goal of this project is to show the Natural Language Processing applications
 
 Topics showed are:
 
-### Exploratory Data Analysis:
+### [Exploratory Data Analysis](https://github.com/claudio1975/SWISSTEXT_2022/blob/main/NLP_EDA.ipynb):
   
     -Language Detection;
   
