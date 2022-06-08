@@ -36,7 +36,7 @@ Topics showed are:
   
     -Word embedding;
  
-### Text Classification:
+### [Text Classification](https://github.com/claudio1975/SWISSTEXT_2022/blob/main/NLP_text_classification.ipynb):
   
     -Classification with BERT
   
