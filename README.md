@@ -32,10 +32,10 @@ Topics showed are:
     
     -N-grams;
   
-    -Topic Modelling with BertTopic;
-  
     -Word embedding;
  
+    -Topic Modelling with BertTopic;
+    
 ### [Text Classification](https://github.com/claudio1975/SWISSTEXT_2022/blob/main/NLP_text_classification.ipynb):
   
     -Classification with BERT
