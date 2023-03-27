@@ -14,6 +14,8 @@ Underwriting process can be improved by a better textual assessment. NLP can cat
 
 The goal of this project is to show the Natural Language Processing applications in Insurance by disaster tweets data set from Kaggle. https://www.kaggle.com/c/nlp-getting-started 
 
+Read the paper: https://ceur-ws.org/Vol-3361/workshop1.pdf
+
 Topics showed are:
 
 ### [Exploratory Data Analysis](https://github.com/claudio1975/SWISSTEXT_2022/blob/main/NLP_EDA.ipynb):
